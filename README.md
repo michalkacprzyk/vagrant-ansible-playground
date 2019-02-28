@@ -1,4 +1,4 @@
-# vagrant_ansible_playground
+# vagrant-ansible-playground
 
 ## What is?
 
